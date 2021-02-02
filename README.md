@@ -1,8 +1,8 @@
 ## Hi 👋, my name is Rodrigo, also known by the nickname fogu1n (:fire:).
-[![Github Badge](https://img.shields.io/badge/-fogu1n-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fogu1n)](https://github.com/fogu1n)
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Agostini-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-agostini/)](https://www.linkedin.com/in/rodrigo-agostini) 
-[![Gmail Badge](https://img.shields.io/badge/-dev.rodrigoribeiroagostini@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rodrigoribeiroagostini@gmail.com)](mailto:dev.rodrigoribeiroagostini@gmail.com)
-[![Website shields.io](https://img.shields.io/badge/Website-working%20on%20it-lightgrey)](https://github.com/fogu1n)
+[![Github Badge](https://img.shields.io/badge/-fogu1n-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/fogu1n)](https://github.com/fogu1n)
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Agostini-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-agostini/)](https://www.linkedin.com/in/rodrigo-agostini) 
+[![Gmail Badge](https://img.shields.io/badge/-dev.rodrigoribeiroagostini@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.rodrigoribeiroagostini@gmail.com)](mailto:dev.rodrigoribeiroagostini@gmail.com)
+[![Website shields.io](https://img.shields.io/badge/Website-working%20on%20it-lightgrey?style=for-the-badge)](https://github.com/fogu1n)
 
 I'm a Brazilian Software Developer living in Vitória, Espírito Santo.</br>
 Currently I divide my time in :family: (:sparkling_heart::woman::baby::dog:), work e studies.</br>
