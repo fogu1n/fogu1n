@@ -60,8 +60,6 @@ Currently I work as a Senior Developer with .NET Core API's, .NET Framework API'
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</br>
 
-Bizagi Modeler and Bizagi Studio</br>
-
 ### :beginner: Learning:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=61DAFB)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=61DAFB)
