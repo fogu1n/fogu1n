@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.rodrigoribeiroagostini@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.rodrigoribeiroagostini@gmail.com)](mailto:dev.rodrigoribeiroagostini@gmail.com)
 [![Website shields.io](https://img.shields.io/badge/Website-working%20on%20it-lightgrey?style=for-the-badge)](https://github.com/fogu1n)
 
-I'm a Brazilian Software Developer living in Vitória, Espírito Santo.</br>
+I'm a Brazilian Senior Software Developer (Fullstack) living in Vitória, Espírito Santo.</br>
 Currently I divide my time in :family: (:sparkling_heart::woman::baby::dog:), work e studies.</br>
 With the birth of my daughter, I needed to slow down the pace of my studies, but soon I will be looking to assimilate and learn any good content about programming again :rocket: .</br>
 My passion for technology started in 1994 when I had my first contact with a 💻 Personal Computer .</br>
