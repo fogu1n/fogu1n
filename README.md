@@ -5,12 +5,11 @@
 [![Website shields.io](https://img.shields.io/badge/Website-working%20on%20it-lightgrey?style=for-the-badge)](https://github.com/fogu1n)
 
 I'm a Brazilian Senior Software Developer (Fullstack) living in Vitória, Espírito Santo.</br>
-Currently I divide my time in :family: (:sparkling_heart::woman::baby::dog:), work e studies.</br>
-With the birth of my daughter, I needed to slow down the pace of my studies, but soon I will be looking to assimilate and learn any good content about programming again :rocket: .</br>
 My passion for technology started in 1994 when I had my first contact with a 💻 Personal Computer .</br>
-I have been working with development for over 15 years and had the opportunity to work with several programming languages.</br>
+Software Engineer with over 18 years of experience in systems development. Passionate about systems development and currently working with the following technologies: C#, .Net Core, Node, Angular, React, Next, React Native, Swift, SwiftUI, Flutter, Sql Server, Postgres, MongoDb, DynamoDb, Firebase, Redis , Azure, AWS.
+
+In 2023 I will be taking a new step in my career. I will be starting a course at the Trebas Institute in Montreal, Canada.
 </br>
-Currently I work as a Senior Developer with .NET Core API's, .NET Framework API's, Angular (JS, v9 and v10) and PL/SQL.
 
 ### :triangular_flag_on_post: These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
