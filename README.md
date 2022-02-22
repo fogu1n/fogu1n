@@ -39,13 +39,14 @@ In 2023 I will be taking a new step in my career. I will be starting a course at
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)</br>
+![NextJS](https://img.shields.io/badge/-NextJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)</br>
 
 ![MSSQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)</br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
@@ -59,15 +60,17 @@ In 2023 I will be taking a new step in my career. I will be starting a course at
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</br>
 
-### :beginner: Learning:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=61DAFB)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=61DAFB)
-![ElectronJS](https://img.shields.io/badge/ElectronJS-47848F?style=for-the-badge&logo=electron&logoColor=61DAFB)</br>
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure_Devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)</br>
 
+### :beginner: Learning:
+![Swift](https://img.shields.io/badge/Swift-3880FF?style=for-the-badge&logo=Ionic&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-3880FF?style=for-the-badge&logo=Ionic&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=61DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=61DAFB)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)</br>
+</br>
 
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -76,11 +79,6 @@ In 2023 I will be taking a new step in my career. I will be starting a course at
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Devops](https://img.shields.io/badge/Azure_Devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)</br>
 
 <!--
 https://simpleicons.org/?q=dot
