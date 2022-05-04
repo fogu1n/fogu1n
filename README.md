@@ -8,7 +8,7 @@ I'm a Brazilian Senior Software Developer (Fullstack) living in Vitória, Espír
 My passion for technology started in 1994 when I had my first contact with a 💻 Personal Computer .</br>
 Software Engineer with over 18 years of experience in systems development. Passionate about systems development and currently working with the following technologies: C#, .Net Core, Node, Angular, React, Next, React Native, Swift, SwiftUI, Flutter, Sql Server, Postgres, MongoDb, DynamoDb, Firebase, Redis , Azure, AWS.
 
-In 2023 I will be taking a new step in my career. I will be starting a course at the Trebas Institute in Montreal, Canada.
+In 2023 I will be taking a new step in my career. I will be moving to Montreal, Quebec - Canada along with my family to seek new challenges.
 
 <!--
 
