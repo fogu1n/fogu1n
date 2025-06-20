@@ -4,14 +4,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.rodrigoribeiroagostini@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.rodrigoribeiroagostini@gmail.com)](mailto:dev.rodrigoribeiroagostini@gmail.com)
 [![Website shields.io](https://img.shields.io/badge/Website-working%20on%20it-lightgrey?style=for-the-badge)](https://github.com/fogu1n)
 
-My passion for technology began back in 1994, when I first got my hands on a 💻 personal computer. Since then, I’ve dedicated over 18 years to building software solutions that are scalable, maintainable, and impactful.
+My passion for technology began back in 1994, when I first got my hands on a 💻 personal computer. Since then, I’ve dedicated over 22 years to building software solutions that are scalable, maintainable, and impactful.
 
-I’m a Software Engineer experienced in a wide range of technologies, including:
-Backend: C#, .NET Core, Node.js
-Frontend: Angular, React, Next.js
+I’m a Software Engineer experienced in a wide range of technologies, including: <br/>
+<b>Backend:</b> C#, .NET Core, Node.js <br/>
+<b>Frontend:</b> Angular, React, Next.js <br/>
+<b>Databases:</b> SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, --> <br/>
+<b>Messaging:</b> Apache Kafka, Azure Service Bus, Azure Queue Storage<br/>
+<b>Cloud & DevOps:</b> Azure, AWS
 <!--Mobile: React Native, Flutter, Swift, SwiftUI-->
-Databases: SQL Server, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, -->
-Cloud & DevOps: Azure, AWS
 
 Currently, I’m living in Montreal, Quebec – Canada, where I moved in 2023 with my family. My wife is pursuing her studies until 2026, and during this period, I’m focusing on enhancing my English and exploring new professional opportunities. I’m open to remote work from anywhere in the world and frequently travel back to Brazil every 3 months for an extended stay.
 
