@@ -9,7 +9,7 @@ My passion for technology began in 1994, when I got my first 💻 personal compu
 
 I'm a Senior Software Engineer with experience across a broad range of technologies: <br/>
 <b>Backend:</b> C#, .NET Core, Node.js <br/>
-<b>Frontend:</b> Angular, React, Next.js <br/>
+<b>Frontend:</b> React, Angular, Next.js <br/>
 <b>Databases:</b> SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, --> <br/>
 <b>Messaging:</b> Apache Kafka, Azure Service Bus, Azure Queue Storage<br/>
 <b>Cloud & DevOps:</b> Azure, AWS
@@ -29,7 +29,7 @@ A minha paixão por tecnologia começou em 1994, quando tive meu primeiro 💻 c
 
 Sou um Engenheiro de Software Sênior com experiência em uma ampla variedade de tecnologias: <br/>
 <b>Backend:</b> C#, .NET Core, Node.js <br/>
-<b>Frontend:</b> Angular, React, Next.js <br/>
+<b>Frontend:</b> React, Angular, Next.js <br/>
 <b>Databases:</b> SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, --> <br/>
 <b>Messaging:</b> Apache Kafka, Azure Service Bus, Azure Queue Storage<br/>
 <b>Cloud & DevOps:</b> Azure, AWS
