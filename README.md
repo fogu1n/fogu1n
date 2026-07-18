@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.rodrigoribeiroagostini@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.rodrigoribeiroagostini@gmail.com)](mailto:dev.rodrigoribeiroagostini@gmail.com)
 [![Website shields.io](https://img.shields.io/badge/Website-lightgrey?style=for-the-badge)](https://rodrigoragostini.com)
 
-My passion for technology began back in 1994, when I first got my hands on a 💻 personal computer. Since then, I’ve dedicated over 22 years to building software solutions that are scalable, maintainable, and impactful.
+My passion for technology began in 1994, when I got my first 💻 personal computer. Since then, I've built a career spanning more than 22 years, designing and delivering scalable, maintainable, and high-impact software solutions.
 
-I’m a Software Engineer experienced in a wide range of technologies, including: <br/>
+I'm a Senior Software Engineer with experience across a broad range of technologies: <br/>
 <b>Backend:</b> C#, .NET Core, Node.js <br/>
 <b>Frontend:</b> Angular, React, Next.js <br/>
 <b>Databases:</b> SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, --> <br/>
@@ -14,7 +14,11 @@ I’m a Software Engineer experienced in a wide range of technologies, including
 <b>Cloud & DevOps:</b> Azure, AWS
 <!--Mobile: React Native, Flutter, Swift, SwiftUI-->
 
-Currently, I’m living in Montreal, Quebec – Canada, where I moved in 2023 with my family. My wife is pursuing her studies until 2026, and during this period, I’m focusing on enhancing my English and exploring new professional opportunities. I’m open to remote work from anywhere in the world and frequently travel back to Brazil every 3 months for an extended stay.
+Throughout my career, I've worked on enterprise applications, modern APIs, cloud-native solutions, distributed systems, and high-performance platforms, always focused on clean architecture, code quality, and delivering business value.
+
+After living and working in Canada for nearly four years, I gained valuable international experience that strengthened both my technical expertise and communication skills while allowing me to collaborate with multicultural teams and global projects.
+
+I'm currently based in Vitória, Espírito Santo, Brazil, and I'm open to remote opportunities worldwide, where I can contribute my experience in building modern software solutions and collaborating with high-performing engineering teams.
 
 <!--
 
