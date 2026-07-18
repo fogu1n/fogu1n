@@ -20,6 +20,24 @@ After living and working in Canada for nearly four years, I gained valuable inte
 
 I'm currently based in Vitória, Espírito Santo, Brazil, and I'm open to remote opportunities worldwide, where I can contribute my experience in building modern software solutions and collaborating with high-performing engineering teams.
 
+------------------------------------------------
+
+A minha paixão por tecnologia começou em 1994, quando tive meu primeiro 💻 computador pessoal. Desde então, construí uma carreira de mais de 22 anos, projetando e desenvolvendo soluções de software escaláveis, de fácil manutenção e com impacto real para os negócios.
+
+Sou um Engenheiro de Software Sênior com experiência em uma ampla variedade de tecnologias: <br/>
+<b>Backend:</b> C#, .NET Core, Node.js <br/>
+<b>Frontend:</b> Angular, React, Next.js <br/>
+<b>Databases:</b> SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis <!-- DynamoDB, Firebase, --> <br/>
+<b>Messaging:</b> Apache Kafka, Azure Service Bus, Azure Queue Storage<br/>
+<b>Cloud & DevOps:</b> Azure, AWS
+<!--Mobile: React Native, Flutter, Swift, SwiftUI-->
+
+Ao longo da minha carreira, trabalhei no desenvolvimento de aplicações corporativas, APIs modernas, soluções em nuvem, sistemas distribuídos e plataformas de alta performance, sempre com foco em arquitetura limpa, qualidade de código e geração de valor para o negócio.
+
+Após viver e trabalhar no Canadá por quase quatro anos, adquiri uma valiosa experiência internacional que fortaleceu ainda mais minhas habilidades técnicas e de comunicação, além de me proporcionar a oportunidade de atuar em equipes multiculturais e em projetos globais.
+
+Atualmente, estou baseado em Vitória, Espírito Santo, Brasil, e aberto a oportunidades remotas em qualquer lugar do mundo, onde possa contribuir com minha experiência no desenvolvimento de soluções modernas e colaborar com equipes de engenharia de alta performance.
+
 <!--
 
 </br>
